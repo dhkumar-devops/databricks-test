@@ -1,1 +1,4 @@
+This is sample file
 
+git config --global user.email "dheerajkumar.devops@gmail.com"
+git config --global user.name "Dheeraj"
